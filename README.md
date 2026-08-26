@@ -19,15 +19,19 @@ ml-learning/
 │   └── 05_sine_graph.ipynb
 │
 ├── Supervised ML/
-│   ├── 01_linear_regression.ipynb
-│   └── insurance.csv
-│
+│   ├── heart.csv
+│   ├── insurance.csv
+│   ├── kNN.ipynb
+│   ├── lasso_regression.ipynb
+│   ├── linear_regression.ipynb
+│   ├── logistic_regression.ipynb
+│   └── naive_bayes.ipynb
 └── README.md
 ```
 
 ---
 
-## 🧠 Topics Covered
+## Topics Covered
 
 ### ML Mathematics
 
@@ -42,11 +46,9 @@ ml-learning/
 ### Supervised Machine Learning
 
 - Linear Regression
-- Dataset Loading
-- Data Preprocessing
-- Model Training
-- Prediction
-- Performance Evaluation
+- Logistic Regression
+- Naive Bayes
+- kNN
 
 ---
 
@@ -55,6 +57,7 @@ ml-learning/
 - Python
 - NumPy
 - Pandas
+- sklearn
 - Matplotlib
 - Jupyter Notebook
 
