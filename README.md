@@ -19,13 +19,20 @@ ml-learning/
 │   └── 05_sine_graph.ipynb
 │
 ├── Supervised ML/
+│   ├── decision_tree_classifier.ipynb
+│   ├── decision_tree_regressor
 │   ├── heart.csv
 │   ├── insurance.csv
 │   ├── kNN.ipynb
 │   ├── lasso_regression.ipynb
 │   ├── linear_regression.ipynb
 │   ├── logistic_regression.ipynb
-│   └── naive_bayes.ipynb
+│   ├── naive_bayes.ipynb
+│   ├── scratch_kNN.ipynb
+│   ├── scratch_linear_regression.ipynb
+│   ├── scratch_logistic_regression.ipynb
+│   ├── support_vecotor_classifier.ipynb
+│   └── Titanic-Dataset.csv
 └── README.md
 ```
 
@@ -49,7 +56,8 @@ ml-learning/
 - Logistic Regression
 - Naive Bayes
 - kNN
-
+- SVC
+- Decision Tree
 ---
 
 ## Technologies Used
